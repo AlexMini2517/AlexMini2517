@@ -7,7 +7,7 @@ Java, Python and Web Developer
 I've been learning to code for 5 years. I started with Java, but have found a passion for Python and Web Development.
 
 * 🌍  I'm based in Italy
-* 🧠  I'm learning Python
+* 🧠  I'm learning Python, JavaScript and PHP
 
 ### Skills
 
