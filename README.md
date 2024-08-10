@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Blum AutoClicker](http://github.com/AlexMini2517/Blum-AutoClicker)
 
-- 🌱 I’m currently learning **Git**
+- 🌱 I’m currently learning **[Git](https://git-scm.com/)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlexMini2517/](https://github.com/AlexMini2517/)
 
-- 📫 How to reach me **example@email.com**
+- 📫 How to reach me **[example@email.com](mailto:example@email.com]**
 
 - 📄 Know about my experiences [TODO](TODO)
 
